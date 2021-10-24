@@ -15,11 +15,15 @@ This project generates a README.md file based on user input and writes it to the
 
 ## Installation
 
-You will need Node.js and two npm packages: File System - require('fs') and Inquirer - require('inquirer')
+You will need Node.js and two npm packages:
+- File System - require('fs')
+- Inquirer - require('inquirer')
 
 ## Usage
 
-You will be prompted with several questions. Answer them all to generate a README.md file.
+You will be prompted with several questions. Answer them all to generate a README.md.
+
+Link to video demonstrating functionality: https://watch.screencastify.com/v/EK5zzrsvRXcOw5qPN56E
 
 ## Contributing
 
